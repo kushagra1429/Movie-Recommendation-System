@@ -1,0 +1,7 @@
+movie
+.DS_Store
+.ipynb_checkpoints
+movies_dataset
+Untitled.ipynb
+movie_list.pkl
+similarity.pkl
