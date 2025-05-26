@@ -26,3 +26,4 @@ A content-based movie recommendation engine that suggests similar movies based o
 
 ## Supporting Images
 ![image alt](https://github.com/kushagra1429/Movie-Recommendation-System/blob/eefc06f02df9a66787197fb4220692700c158495/Screenshot%202025-05-26%20at%2016.36.20.png)
+![image alt](https://github.com/kushagra1429/Movie-Recommendation-System/blob/3b10aba2704bfea2c8f4c4a5b6d0d8571c046445/Screenshot%202025-05-26%20at%2018.43.04.png)
