@@ -1,5 +1,5 @@
 
-**🎬 Movie Recommendation System**
+## **🎬 Movie Recommendation System**
 A content-based movie recommendation engine that suggests similar movies based on an input title using Natural Language Processing (NLP). The model uses Bag of Words for **vectorization and cosine similarity** to compute how closely movies relate based on their metadata, such as **genres, cast, and plot keywords**.
 
 **🚀 Features**
