@@ -11,7 +11,8 @@ A content-based movie recommendation engine that suggests similar movies based o
 
 <li>Simple and efficient—great for learning and quick deployments</li>
 <br>
-## **🛠️ Technologies Used**
+
+## 🛠️ Technologies Used
 <li>Python</li>
 
 <li>NumPy</li>
